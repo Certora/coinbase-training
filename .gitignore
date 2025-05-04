@@ -1,0 +1,13 @@
+.env
+.vscode/
+.idea/
+
+# OS file
+.DS_Store
+
+# vim
+*.*.swp
+*.*.swo
+
+# Certora
+.certora_internal/
