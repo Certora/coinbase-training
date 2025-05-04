@@ -5,6 +5,9 @@
 # OS file
 .DS_Store
 
+# Sphinx
+docs/build
+
 # vim
 *.*.swp
 *.*.swo
